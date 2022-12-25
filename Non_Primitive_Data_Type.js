@@ -9,3 +9,4 @@ const obj1 = {
 
 console.log(obj1.name);
 console.log(obj1.empid);
+console.log(obj1.company);
