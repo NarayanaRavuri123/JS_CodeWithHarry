@@ -1,0 +1,21 @@
+//Assignment operators
+let a = 20;
+let b = 2;
+let c=0;
+let d=0;
+let e=0;
+let f=0;
+let g=0;
+let h=0;
+c+=20;
+d-=20;
+e*=3;
+f**=3;
+g/=4;
+h%=5;
+console.log(c);
+console.log(d);
+console.log(e);
+console.log(f);
+console.log(g);
+console.log(h);
