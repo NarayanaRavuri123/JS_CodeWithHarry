@@ -8,5 +8,5 @@ console.log(a>b);
 console.log(a<b);
 console.log(a>=b);
 console.log(a<=b);
-let k = a>b?10:30;
+let k = a>b?10:30;//terinary operator
 console.log(k);
